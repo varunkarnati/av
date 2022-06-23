@@ -1,0 +1,51 @@
+body{
+    margin-bottom: 0%;
+    margin-top: 0%;
+    text-align: center;
+    height: 100%;
+    
+}
+img{
+    width: 10%;
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Sacramento', cursive;
+}
+h3{ 
+    font-size: 20px;
+    font-family: monospace;
+}
+.B{
+    background-color: rgb(174, 243, 232);
+    margin: -20px;
+    height: 100%;
+    padding: 100px;
+    
+    
+    
+    
+    
+    
+
+    
+}
+
+ 
+
+.mountain{
+    position: absolute;
+    height: 100%;
+}
+.topcloud{
+    position: absolute;
+    margin-left: -200px;
+    margin-top: 100px;
+}
+.bottomcloud{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 250px;
+    
+}
